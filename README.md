@@ -28,7 +28,7 @@ The increasing number of cancellations calls for a Machine Learning based soluti
 
 * type_of_meal_plan: The type of meal plan booked by the customer:
 
-- * Not Selected – No meal plan selected
+  * Not Selected – No meal plan selected
   * Meal Plan 1 – Breakfast
   * Meal Plan 2 – Half board (breakfast and one other meal)
   * Meal Plan 3 – Full board (breakfast, lunch, and dinner)
